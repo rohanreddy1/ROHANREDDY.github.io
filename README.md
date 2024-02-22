@@ -1,6 +1,6 @@
-#DATA ENGINEER
+# DATA ENGINEER
 
-##SKILS:
+## SKILS:
 Big Data Technologies: Hadoop, Apache Spark, MapReduce, Spark Streaming, PySpark, Kafka, HBase, Sqoop,
 Oozie, Cassandra, Yarn, Hive, Pig, Spark SQL, Spark Streaming, Zookeeper, Flume, Impala, Oozie
 Cloud Technologies: AWS (EC2, S3, Lambda,) Azure (Azure Storage, Azure Synapse, ADF, Azure Data Bricks).
@@ -11,7 +11,7 @@ IDEs: Eclipse, IntelliJ, PyCharm
 Deployment Tools: Maven, Jenkins, Ansible & Nexus
 Project Management Tools: Jira, IBM Clear case /Quest, GitHub, Confluence/Wiki, Mind Map
 
-##PROFESSIONAL EXPERIENCE:
+## PROFESSIONAL EXPERIENCE:
 Accenture | Hyderabad, India | May 2019- July 2022
 
 Data Analyst
@@ -36,7 +36,7 @@ pharmacy claims data.
 •	Collaborated on the creation of interactive dashboards and reports using Tableau, offering stakeholders valuable insights and visualizations.
 •	Leveraged advanced Excel functionalities to develop comprehensive reports and interactive dashboards for data analysis purposes. Utilized features such as pivot tables, data validation, and conditional formatting to extract actionable insights and visually communicate complex data findings to stakeholders.
 
-##EDUCATION
+## EDUCATION
 Master of Science in Business Analytics and Information Systems (CGPA-3.96*) August 2022-PRESENT
 University of South Florida, Tampa FL USA
 
