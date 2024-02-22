@@ -12,7 +12,7 @@ Deployment Tools: Maven, Jenkins, Ansible & Nexus
 Project Management Tools: Jira, IBM Clear case /Quest, GitHub, Confluence/Wiki, Mind Map
 
 ## PROFESSIONAL EXPERIENCE:
-Accenture | Hyderabad, India | May 2019- July 2022
+## Accenture | Hyderabad, India | May 2019- July 2022
 
 ## Data Analyst
 •	Led data analysis initiatives employing advanced analytics techniques, extracting actionable insights to drive informed decision-making.
