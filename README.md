@@ -14,7 +14,7 @@ Project Management Tools: Jira, IBM Clear case /Quest, GitHub, Confluence/Wiki, 
 ## PROFESSIONAL EXPERIENCE:
 Accenture | Hyderabad, India | May 2019- July 2022
 
-Data Analyst
+## Data Analyst
 •	Led data analysis initiatives employing advanced analytics techniques, extracting actionable insights to drive informed decision-making.
 •	Applied machine learning algorithms to automate and enhance data analysis processes, contributing to increased efficiency and accuracy in
 decision support.
@@ -28,7 +28,7 @@ reliability of .NET applications.
 timelines.
 
 
-Data Engineer
+## Data Engineer
 •	Spearheaded the design, implementation, and enhancement of ETL pipelines utilizing Informatica PowerCenter, with a specific focus on
 pharmacy claims data.
 •	Successfully identified and resolved numerous data discrepancies, achieving an 80% reduction in errors. Conducted thorough data analysis using SQL, addressing root causes and implementing necessary fixes.
