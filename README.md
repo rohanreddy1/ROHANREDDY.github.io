@@ -37,7 +37,8 @@ pharmacy claims data.
 •	Leveraged advanced Excel functionalities to develop comprehensive reports and interactive dashboards for data analysis purposes. Utilized features such as pivot tables, data validation, and conditional formatting to extract actionable insights and visually communicate complex data findings to stakeholders.
 
 ## EDUCATION
-Master of Science in Business Analytics and Information Systems (CGPA-3.96*) August 2022-PRESENT
+Master of Science in Business Analytics and Information Systems (CGPA-3.96*) 
+
 University of South Florida, Tampa FL USA
 
 
